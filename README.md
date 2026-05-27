@@ -1,1 +1,0 @@
-# Periodic_Table_Database_Using_PostgresSql_and_Bash_Scripting
